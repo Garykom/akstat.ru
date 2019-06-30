@@ -1,0 +1,9 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [64.54, 40.54]}, "properties": {"balloonContent": "Содержимое балуна", "clusterCaption": "Метка с iconContent", "hintContent": "Текст подсказки", "iconContent": "1"}, "options": {"iconLayout": "default#image", "iconImageHref": "http://akstat.ru/assets/bus.png", "iconImageSize": [20, 20] }},
+        {"type": "Feature", "id": 1, "geometry": {"type": "Point", "coordinates": [64.55, 40.55]}, "properties": {"balloonContent": "Содержимое балуна", "clusterCaption": "Метка с iconContent", "hintContent": "Текст подсказки", "iconContent": "1"}, "options": {"iconLayout": "default#image", "iconImageHref": "http://akstat.ru/assets/bus.png", "iconImageSize": [20, 20] }},
+        {"type": "Feature", "id": 2, "geometry": {"type": "Point", "coordinates": [64.53, 40.54]}, "properties": {"balloonContent": "Содержимое балуна", "clusterCaption": "Метка с iconContent", "hintContent": "Текст подсказки", "iconContent": "1"}, "options": {"iconLayout": "default#image", "iconImageHref": "http://akstat.ru/assets/bus.png", "iconImageSize": [20, 20] }},
+        {"type": "Feature", "id": 3, "geometry": {"type": "Point", "coordinates": [64.54, 40.53]}, "properties": {"balloonContent": "Содержимое балуна", "clusterCaption": "Метка с iconContent", "hintContent": "Текст подсказки", "iconContent": "1"}, "options": {"iconLayout": "default#image", "iconImageHref": "http://akstat.ru/assets/bus.png", "iconImageSize": [20, 20] }}
+    ]
+}
