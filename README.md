@@ -1,4 +1,4 @@
-# akstat.ru
+# http://akstat.ru/
 
 GET
 
